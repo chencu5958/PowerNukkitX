@@ -201,5 +201,10 @@ Please read the [CONTRIBUTING](https://github.com/PowerNukkitX/PowerNukkitX/blob
 ## ⭐ Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/PowerNukkitX/PowerNukkitX.svg)](https://starchart.cc/PowerNukkitX/PowerNukkitX)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchencu5958%2FPowerNukkitX.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchencu5958%2FPowerNukkitX?ref=badge_shield)
 
 2019 - 2023 © [BlocklyNukkit](https://wiki.blocklynukkit.com) | [PowerNukkitX](https://www.powernukkitx.com)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchencu5958%2FPowerNukkitX.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchencu5958%2FPowerNukkitX?ref=badge_large)
